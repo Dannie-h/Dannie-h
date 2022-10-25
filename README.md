@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dannie-h
 - 👀 I’m interested in data analytics and data science
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Power BI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
